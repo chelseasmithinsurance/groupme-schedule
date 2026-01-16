@@ -54,7 +54,7 @@ schedule = {
                 "password": "grit",
             },
             {
-                "title": "🌟 Top Producer Call",
+                "title": "Top Producer Call",
                 "time": "12:00pm–1:00pm EST",
                 "description": "Learn directly from top performers.",
                 "link": "https://us06web.zoom.us/j/3580944678?from=join#success?no_preview=1",
