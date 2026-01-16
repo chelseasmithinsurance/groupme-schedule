@@ -154,7 +154,7 @@ schedule = {
                 "password": "grit",
             },
             {
-                "title": "⭐ 🏆 Hunt/McLean Baseshop Huddle",
+                "title": "⭐ 🏆 Hunt Master Huddle",
                 "time": "12:00pm EST",
                 "description": "✅ Connect with the entire Hunt Master Agency as we recap the week, set up the nenxt, and celebrate wins.",
                 "link": "https://us02web.zoom.us/j/83531832146?pwd=ZGZtbjFDVndjL1VQeEhVNUNMTkhsZz09#success?no_preview=1",
