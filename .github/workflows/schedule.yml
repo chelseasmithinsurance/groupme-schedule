@@ -2,7 +2,7 @@ name: GroupMe Scheduled Posts
 
 on:
   schedule:
-    - cron: "0 14 * * *"   # Every day at 9am Central
+    - cron: "0 14 * * *"   # Every day at 8am Central
   workflow_dispatch:
 
 jobs:
